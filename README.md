@@ -10,7 +10,9 @@ I’m especially interested in:
 
 I work best when I can **build, debug, and iterate** on a product until it actually runs in the real world.
 
----
+<details>
+<summary>My story</summary>
+
 
 ## 🧠 What I Can Do
 
@@ -129,3 +131,5 @@ These are intentionally **not implemented yet** to keep the MVP focused.
 
 This project is part of my learning journey and portfolio.
 It reflects how I approach building software: **ship first, refine later**.
+
+</details>
